@@ -11,5 +11,5 @@
 3. Reemplazar el valor de `RESEND_KEY` por tu apikey de resend o usa el de prueba "re_bNURZbrb_LjFfdpRPqdAWDfMyh8jUpxYb"
 4. Ejecuta el comando `composer install`
 5. Ejecuta el comando `php artisan:migrate`
-6. Ejecuta el comando `php artisan serve`
+6. Ejecuta el comando `php artisan serve --host=0.0.0.0 --port=8000`
 
