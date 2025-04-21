@@ -1,9 +1,5 @@
 # Soap Wallet
 
-1.- Copiar el archivo ".env.example" en la raiz del proyecto con el nombre ".env".
-2.- Setear las variables de entorno
-
-
 ## Configuración del Proyecto
 
 1. Copiar o renombrar  `.env.example` en la raiz del proyecto con el nombre `.env`.
